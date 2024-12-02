@@ -61,6 +61,13 @@ npm i ddb-table
 
 <br>
 
+
+## Ask AI
+
+[DDB-table](https://codeparrot.ai/oracle?owner=neuledge&repo=ddb-table) AI will help you understand this repository better. You can ask for code examples, installation guide, debugging help and much more.
+
+<br>
+
 ## Usage
 
 ```ts
